@@ -1,3 +1,5 @@
+# Lab2-Components
+
 React Minimal template
 
 Survival template for the React course
